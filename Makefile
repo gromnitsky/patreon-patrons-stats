@@ -5,8 +5,7 @@ crx := $(pkg).crx
 zip := $(pkg).zip
 
 crx: $(crx)
-%.crx: %.zip private.pem
-	crx3-new private.pem < $< > $@
+%.crx: %.zip private.pem; crx3-new private.pem < $< > $@
 
 src := $(wildcard src/*)
 dest := $(patsubst src/%.jsx, $(ext)/%.js, $(filter %.jsx, $(src))) \
@@ -28,7 +27,7 @@ upload: $(crx)
 
 $(ext)/%.js: src/%.jsx
 	$(mkdir)
-	node_modules/.bin/babel --plugins @babel/transform-react-jsx $< -o $@
+	node_modules/.bin/babel -s --plugins @babel/transform-react-jsx $< -o $@
 
 $(ext)/node_modules/%: node_modules/%; $(copy)
 $(ext)/%: src/%; $(copy)
