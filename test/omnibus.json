@@ -1,0 +1,856 @@
+{
+  "apiServer": "www.patreon.com/api",
+  "webServer": "www.patreon.com",
+  "userId": "0",
+  "csrfSignature": "OKuM9cPlWgkurxPzQnobQOcERf3B9pg2rPrih3MaRcQ",
+  "requestUUID": "23212b5e-37ac-4349-8e57-f3de3d000db7",
+  "fbPixelId": "267568703576098",
+  "theme": "america",
+  "bootstrap": {
+    "campaign": {
+      "data": {
+        "attributes": {
+          "avatar_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/2855828/8d37a519248d4087a45162b22faba51a/2.png?token-time=2145916800&token-hash=QS_-7PAmgOI9wSnREPWMhaqbRSAlJIqZUmySUJLrdb4%3D",
+          "campaign_pledge_sum": 1400393,
+          "cover_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/2855828/cbb0a5ec1fc74290b999f5602f0d8557/2.jpg?token-time=1612396800&token-hash=Suee9MmALXXB2SDZB09h2brfpX5QRMO7U0DEk7BiM6M%3D",
+          "cover_photo_url_sizes": {
+            "large": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/2855828/cbb0a5ec1fc74290b999f5602f0d8557/2.jpg?token-time=1612396800&token-hash=Suee9MmALXXB2SDZB09h2brfpX5QRMO7U0DEk7BiM6M%3D",
+            "medium": "https://c10.patreonusercontent.com/3/eyJ3Ijo5NjB9/patreon-media/p/campaign/2855828/cbb0a5ec1fc74290b999f5602f0d8557/2.jpg?token-time=1612396800&token-hash=YlwyWIrw79n23uPOhfG8echqchvkN-HAjHqiT_pxP-4%3D",
+            "small": "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/campaign/2855828/cbb0a5ec1fc74290b999f5602f0d8557/2.jpg?token-time=1612396800&token-hash=KYHAP3qnaqLwQRi-whhNLptJziQFzRH0EPZG7qKLFag%3D"
+          },
+          "creation_name": "a podcast time capsule",
+          "currency": "USD",
+          "display_patron_goals": false,
+          "has_rss": true,
+          "is_monthly": true,
+          "is_nsfw": false,
+          "main_video_embed": null,
+          "main_video_url": null,
+          "name": "Omnibus",
+          "one_liner": null,
+          "patron_count": 1991,
+          "pay_per_name": "month",
+          "pledge_sum": 1400393,
+          "pledge_sum_currency": "USD",
+          "pledge_url": "/join/omnibusproject",
+          "primary_theme_color": "#2a2f39",
+          "published_at": "2019-07-31T18:33:15.000+00:00",
+          "show_earnings": true,
+          "show_patron_count": true,
+          "summary": "We are Ken Jennings (of <em>Jeopardy!</em>) and John Roderick (of the Long Winters).  We speak to you from our present, which we can only assume is your distant past: the turbulent time that was the early 21st century!<br><br>Fearing the great cataclysm that will surely befall our civilization, we began the OMNIBUS, a complete compendium of human history and achievement.  Our successors on this planet, whether they're lobster-people or alien robot settlers or super-intelligent aspen trees, might need someone to explain topics like the French Foreign Legion or Milli Vanilli to them.  It is our hope that these \"Futurelings\" will somehow find this time capsule, and that humanity will be remembered.<br><br>In 2019, we left our podcasting network to take OMNIBUS independent.  The enthusiasm and dedication of our Futureling listeners has always been our favorite part of making the show, and if Patreon still exists in your era, we invite you to join us by contributing to this monumental endeavor.  Our patron benefits are equally ambitious, and range from a monthly bonus \"Addenda\" release to a personalized entry of your choice, all of which we hope will enrich your OMNIBUS experience.  Please give generously, especially if your future Earth is a \"post-scarcity\" utopia.  For everyone else: we also accept shiny rocks and wrecked cars.",
+          "vanity": "omnibusproject"
+        },
+        "id": "2855828",
+        "relationships": {
+          "active_offer": {
+            "data": null
+          },
+          "connected_socials": {
+            "data": [
+              {
+                "id": "4293426",
+                "type": "social-connection"
+              }
+            ]
+          },
+          "creator": {
+            "data": {
+              "id": "12444791",
+              "type": "user"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/user/12444791"
+            }
+          },
+          "goals": {
+            "data": []
+          },
+          "patron_goals": {
+            "data": []
+          },
+          "post_aggregation": {
+            "data": {
+              "id": "post-aggregation-for-0-2855828",
+              "type": "post_aggregation"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/post-aggregations/post-aggregation-for-0-2855828"
+            }
+          },
+          "rewards": {
+            "data": [
+              {
+                "id": "-1",
+                "type": "reward"
+              },
+              {
+                "id": "0",
+                "type": "reward"
+              },
+              {
+                "id": "3740423",
+                "type": "reward"
+              },
+              {
+                "id": "3740448",
+                "type": "reward"
+              },
+              {
+                "id": "3740461",
+                "type": "reward"
+              },
+              {
+                "id": "3740474",
+                "type": "reward"
+              },
+              {
+                "id": "3740441",
+                "type": "reward"
+              }
+            ]
+          }
+        },
+        "type": "campaign"
+      },
+      "included": [
+        {
+          "attributes": {
+            "full_name": "Ken Jennings",
+            "vanity": "omnibusproject"
+          },
+          "id": "12444791",
+          "relationships": {
+            "campaign": {
+              "data": {
+                "id": "2855828",
+                "type": "campaign"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/campaigns/2855828"
+              }
+            }
+          },
+          "type": "user"
+        },
+        {
+          "attributes": {
+            "next_inaccessible_posts_count": 1012,
+            "upgrade_url": "/join/omnibusproject/checkout?rid=3740423"
+          },
+          "id": "post-aggregation-for-0-2855828",
+          "type": "post_aggregation"
+        },
+        {
+          "attributes": {
+            "amount": 0,
+            "amount_cents": 0,
+            "created_at": null,
+            "description": "Everyone",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "-1",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount": 1,
+            "amount_cents": 1,
+            "created_at": null,
+            "description": "Patrons Only",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "0",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "currency": "USD",
+            "description": "<p>Evolved crustaceans. Delicious with butter. </p>\n<ul>\n<li>Access to monthly <em>Omnibus Addenda</em> bonus episode</li>\n</ul>\n<p><br></p>",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 500,
+            "patron_count": 1369,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Lobster Person",
+            "url": "/join/omnibusproject/checkout?rid=3740423",
+            "user_limit": null
+          },
+          "id": "3740423",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3740423_1_USD",
+                  "type": "reward-cadence-option"
+                },
+                {
+                  "id": "3740423_12_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "1439077",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1000,
+            "currency": "USD",
+            "description": "<p>Ageless clonal colonies of quivering, giggling trees. </p>\n<ul>\n<li>Access to monthly <em>Omnibus Addenda</em> bonus episode</li>\n<li>Access to the <em>Omnibus</em> photo feed, including scans of John's and Ken's hastily scrawled show notes, recording photos, images of oddities received in our mailbag, and other visual detritus recovered from the rubble</li>\n</ul>",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 1000,
+            "patron_count": 437,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Sentient Aspen Tree Colony",
+            "url": "/join/omnibusproject/checkout?rid=3740448",
+            "user_limit": null
+          },
+          "id": "3740448",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3740448_1_USD",
+                  "type": "reward-cadence-option"
+                },
+                {
+                  "id": "3740448_12_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "2226381",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439077",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2000,
+            "currency": "USD",
+            "description": "<p>Extraterrestrial probe units newly arrived on Earth to terraform and colonize.   </p>\n<ul>\n<li>Access to monthly <em>Omnibus Addenda</em> bonus episode</li>\n<li>Access to the <em>Omnibus</em> photo feed, including scans of John's and Ken's hastily scrawled show notes, recording photos, images of oddities received in our mailbag, and other visual detritus recovered from the rubble</li>\n<li>Autographed show notes mailed to you as a memento of our era</li>\n</ul>",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 2000,
+            "patron_count": 107,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Robot Alien Explorer",
+            "url": "/join/omnibusproject/checkout?rid=3740461",
+            "user_limit": null
+          },
+          "id": "3740461",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3740461_1_USD",
+                  "type": "reward-cadence-option"
+                },
+                {
+                  "id": "3740461_12_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "1439105",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "2226381",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439077",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5000,
+            "currency": "USD",
+            "description": "<p>Bipedal, super-intelligent mutated raccoons.  Esperanto speakers.</p>\n<ul>\n<li>Access to monthly <em>Omnibus Addenda</em> bonus episode</li>\n<li>Access to the <em>Omnibus</em> photo feed, including scans of John's and Ken's hastily scrawled show notes, recording photos, images of oddities received in our mailbag, and other visual detritus recovered from the rubble</li>\n<li>Autographed show notes mailed to you as a memento of our era</li>\n<li>An <em>Omnibus </em>entry topic <strong>of your choice</strong><em><strong> </strong></em>added to the time capsule</li>\n</ul>",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 5000,
+            "patron_count": 37,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Washing Bear",
+            "url": "/join/omnibusproject/checkout?rid=3740474",
+            "user_limit": null
+          },
+          "id": "3740474",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3740474_1_USD",
+                  "type": "reward-cadence-option"
+                },
+                {
+                  "id": "3740474_12_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "1439105",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439106",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439077",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "2226381",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "currency": "USD",
+            "description": "<p>Five-dimensional consciousnesses of solid light. </p>\n<ul>\n<li>Access to monthly <em>Omnibus Addenda</em> bonus episode</li>\n<li>Access to the <em>Omnibus</em> photo feed, including scans of John's and Ken's hastily scrawled show notes, recording photos, images of oddities received in our mailbag, and other visual detritus recovered from the rubble</li>\n<li>Autographed show notes mailed to you as a memento of our era</li>\n<li>An <em>Omnibus </em>entry topic <strong>of your choice</strong> added to the time capsule</li>\n<li>Cross-time video chat with John and Ken</li>\n</ul>",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 10000,
+            "patron_count": 11,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Omniversal Hyper-Coral",
+            "url": "/join/omnibusproject/checkout?rid=3740441",
+            "user_limit": null
+          },
+          "id": "3740441",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3740441_1_USD",
+                  "type": "reward-cadence-option"
+                },
+                {
+                  "id": "3740441_12_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "1439107",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439077",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "2226381",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439105",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "1439106",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "app_name": "twitter",
+            "display_name": "omnibusproject",
+            "external_profile_url": "https://twitter.com/omnibusproject",
+            "is_public": true
+          },
+          "id": "4293426",
+          "type": "social-connection"
+        },
+        {
+          "attributes": {
+            "description": "",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Monthly Addenda episode"
+          },
+          "id": "1439077",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3740423_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5700,
+            "cadence": 12,
+            "campaign_pledge_cadence_discount_id": 10743,
+            "currency": "USD"
+          },
+          "id": "3740423_12_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": null,
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Image feed"
+          },
+          "id": "2226381",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": {
+                "id": "exclusive_content",
+                "type": "reward-item-template"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/reward-item-template/exclusive_content"
+              }
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3740448_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 11400,
+            "cadence": 12,
+            "campaign_pledge_cadence_discount_id": 10743,
+            "currency": "USD"
+          },
+          "id": "3740448_12_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": "",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Mailed show notes"
+          },
+          "id": "1439105",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3740461_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 22800,
+            "cadence": 12,
+            "campaign_pledge_cadence_discount_id": 10743,
+            "currency": "USD"
+          },
+          "id": "3740461_12_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": "",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Topic suggestion"
+          },
+          "id": "1439106",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3740474_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 57000,
+            "cadence": 12,
+            "campaign_pledge_cadence_discount_id": 10743,
+            "currency": "USD"
+          },
+          "id": "3740474_12_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": "",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Video chat"
+          },
+          "id": "1439107",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3740441_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 114000,
+            "cadence": 12,
+            "campaign_pledge_cadence_discount_id": 10743,
+            "currency": "USD"
+          },
+          "id": "3740441_12_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "fields": {
+              "access_key": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "category_type": {
+                "default": "bonus_content",
+                "validation_type": "optional"
+              },
+              "content": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_email": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_welcome_pack": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "fulfillment_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "is_tracked": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "item_type": {
+                "default": "custom",
+                "validation_type": "protected"
+              },
+              "rule_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "tte_interval": {
+                "default": null,
+                "validation_type": "optional"
+              }
+            }
+          },
+          "id": "exclusive_content",
+          "type": "reward-item-template"
+        }
+      ],
+      "links": {
+        "self": "https://www.patreon.com/api/campaigns/2855828"
+      }
+    },
+    "currentUser": null,
+    "defaultUserCurrency": null,
+    "experienceLocationCountryCode": "UA",
+    "formattingLocale": "en-US",
+    "supported_currencies": [
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "USD",
+        "default_country_iso_code": "US",
+        "default_locale_code": "en",
+        "description": "US Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "US$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "EUR",
+        "default_country_iso_code": "EU",
+        "default_locale_code": "en-ie",
+        "description": "Euro",
+        "is_launched": true,
+        "max_pledge_subunits": 1300000,
+        "num_subunits": 100,
+        "symbol": "€"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "GBP",
+        "default_country_iso_code": "GB",
+        "default_locale_code": "en-gb",
+        "description": "British Pounds",
+        "is_launched": true,
+        "max_pledge_subunits": 1200000,
+        "num_subunits": 100,
+        "symbol": "£"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "CAD",
+        "default_country_iso_code": "CA",
+        "default_locale_code": "en-CA",
+        "description": "Canadian Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "CA$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "AUD",
+        "default_country_iso_code": "AU",
+        "default_locale_code": "en-AU",
+        "description": "Australian Dollars",
+        "is_launched": false,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "AU$"
+      }
+    ],
+    "translationLocale": "en-US"
+  },
+  "campaignFeatures": {},
+  "experiments": {},
+  "featureFlags": {
+    "analytics_refactor": false,
+    "announcement_banner_ticker": false,
+    "campaign_plan_features": true,
+    "cms_homepage": true,
+    "cms_local_business_vertical_page": true,
+    "cms_pricing_page": true,
+    "cms_product_lite_page": true,
+    "cms_product_page_bundle": true,
+    "cms_vertical_page_bundle": true,
+    "creator_demo": true,
+    "currency_migration_for_campaign": true,
+    "disable_patron_manager": true,
+    "enable_advanced_logging": false,
+    "experience_location": true,
+    "hide_instagram_social_connect": false,
+    "hide_starter_kit_nav_link": false,
+    "merch_mockup_generation": true,
+    "merch_new_products": true,
+    "patron_manager_deprecate_jinja": true,
+    "payout_reorg_2019_q3": true,
+    "pendo_whats_new": true,
+    "pinned_posts": true,
+    "pledgeflow_location_modal_cancel": false,
+    "pql_merch_access": true,
+    "pro_plus_merch_deny": false,
+    "rename_rewards": true,
+    "rewards_manager": true,
+    "sb_messaging_web": true,
+    "sunset_patron_manager": false,
+    "us_ca_location_capture": true,
+    "verify_user_location": true
+  },
+  "presets": {
+    "additional_banner_data": {},
+    "base_url": "/omnibusproject",
+    "can_campaign_be_age_gated": false,
+    "can_see_nsfw": false,
+    "currency_migration_in_progress": false,
+    "current_banners": [
+      "creator_demo"
+    ],
+    "device_id": "1b9464f6-2858-490a-a0c4-b5d78529c642",
+    "is_impersonating": false,
+    "is_preview": false,
+    "is_published": true,
+    "is_target": true,
+    "js_git_sha": "97b28eb76cb37796909bcd8b5921d81bc83676b7",
+    "locked_post_aggregates": {
+      "audio": 15,
+      "image": 296,
+      "link": 0,
+      "livestream": 0,
+      "poll": 0,
+      "total": 256,
+      "update": 2,
+      "video": 0
+    },
+    "num_posts": 259,
+    "page_title": "Patreon",
+    "public_path": "//c1.patreon.com/content-based",
+    "show_acast_button_post_pledge": false,
+    "skip_banner": true,
+    "verify_location": null,
+    "navigation": {
+      "concierge_status": {
+        "finished_at": null,
+        "started_at": null
+      },
+      "impersonation_write_access": false,
+      "is_active_creator": false,
+      "is_admin": false,
+      "is_impersonating": false,
+      "logged_in_become_creator_cta": null,
+      "referer_url": "https://www.google.com/",
+      "show_referral_program": false,
+      "show_taxes_page": false,
+      "teammate_status": {
+        "is_owner": false,
+        "is_teammate": false
+      },
+      "undelivered_deliverables_count": null,
+      "unread_messages_count": null,
+      "unread_notifications_count": null,
+      "utm_params": {}
+    }
+  },
+  "pageLoadEventName": null,
+  "pageLoadEventParams": {}
+}

@@ -1,0 +1,727 @@
+{
+  "apiServer": "www.patreon.com/api",
+  "webServer": "www.patreon.com",
+  "userId": "0",
+  "csrfSignature": "eZblOCn9EFzD7srVkEExoKthpORsmAJs-Z8mwGA66S4",
+  "requestUUID": "d0cf0ecd-4007-4c34-92d4-ff0171e8e221",
+  "fbPixelId": "267568703576098",
+  "theme": "america",
+  "bootstrap": {
+    "campaign": {
+      "data": {
+        "attributes": {
+          "avatar_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/3072524/d5ddaac0dee946f48a052c9d651ac2d9/2.jpeg?token-time=2145916800&token-hash=r6zBC5durj1-Fm3iGZpq8TIPyET5bOyU-fioMwbqmyk%3D",
+          "campaign_pledge_sum": 332860,
+          "cover_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/3072524/09e30e65db1047aeb9e296d5c01de660/2.png?token-time=1612396800&token-hash=4wxEo1Ypba23B9Tgo8yX5L-QKYqcstMQSFP3Pd1FMAA%3D",
+          "cover_photo_url_sizes": {
+            "large": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/3072524/09e30e65db1047aeb9e296d5c01de660/2.png?token-time=1612396800&token-hash=4wxEo1Ypba23B9Tgo8yX5L-QKYqcstMQSFP3Pd1FMAA%3D",
+            "medium": "https://c10.patreonusercontent.com/3/eyJ3Ijo5NjB9/patreon-media/p/campaign/3072524/09e30e65db1047aeb9e296d5c01de660/2.png?token-time=1612396800&token-hash=FFYRHKO1zVXSqWT5E0z8cHCCFH2X1gZbAASbS33Gibg%3D",
+            "small": "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/campaign/3072524/09e30e65db1047aeb9e296d5c01de660/2.png?token-time=1612396800&token-hash=GT2_dURbdKR4u-c6FRjWfYgSNVV7pD2AbjEs70qhFzY%3D"
+          },
+          "creation_name": " YouTube-channel",
+          "currency": "USD",
+          "display_patron_goals": false,
+          "has_rss": false,
+          "is_monthly": true,
+          "is_nsfw": false,
+          "main_video_embed": "\n<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"480\" scrolling=\"no\" src=\"https://www.youtube.com/embed/yUnwqXjUwdQ\" width=\"854\"></iframe>\n",
+          "main_video_url": "https://www.youtube.com/watch?v=yUnwqXjUwdQ",
+          "name": "STERNENKO",
+          "one_liner": null,
+          "patron_count": 641,
+          "pay_per_name": "month",
+          "pledge_sum": 332860,
+          "pledge_sum_currency": "USD",
+          "pledge_url": "/join/sternenko",
+          "primary_theme_color": "#947b00",
+          "published_at": "2019-08-17T10:33:16.000+00:00",
+          "show_earnings": true,
+          "show_patron_count": true,
+          "summary": "Привіт! <br>Я юрист та громадський активіст, який веде свій блог на YouTube. Там я ділюсь враженнями від політичних і не тільки подій в Україні, роблю аналітичний контент та викриваю негідників. <br>Буду вдячний за вашу підтримку, це допомагає бути незалежним та витрачати більше часу на новий контент!<br><br>Один з багатьох прикладів моїх відео додаю на цю сторінку :)<br><br>Дякую!<br>",
+          "vanity": "sternenko"
+        },
+        "id": "3072524",
+        "relationships": {
+          "active_offer": {
+            "data": null
+          },
+          "connected_socials": {
+            "data": [
+              {
+                "id": "4874015",
+                "type": "social-connection"
+              },
+              {
+                "id": "4874016",
+                "type": "social-connection"
+              },
+              {
+                "id": "4874020",
+                "type": "social-connection"
+              }
+            ]
+          },
+          "creator": {
+            "data": {
+              "id": "23368041",
+              "type": "user"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/user/23368041"
+            }
+          },
+          "goals": {
+            "data": []
+          },
+          "patron_goals": {
+            "data": []
+          },
+          "post_aggregation": {
+            "data": {
+              "id": "post-aggregation-for-0-3072524",
+              "type": "post_aggregation"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/post-aggregations/post-aggregation-for-0-3072524"
+            }
+          },
+          "rewards": {
+            "data": [
+              {
+                "id": "-1",
+                "type": "reward"
+              },
+              {
+                "id": "0",
+                "type": "reward"
+              },
+              {
+                "id": "3994431",
+                "type": "reward"
+              },
+              {
+                "id": "3914516",
+                "type": "reward"
+              },
+              {
+                "id": "3914537",
+                "type": "reward"
+              },
+              {
+                "id": "3914521",
+                "type": "reward"
+              },
+              {
+                "id": "3914523",
+                "type": "reward"
+              },
+              {
+                "id": "3914532",
+                "type": "reward"
+              }
+            ]
+          }
+        },
+        "type": "campaign"
+      },
+      "included": [
+        {
+          "attributes": {
+            "full_name": "Serhii",
+            "vanity": "sternenko"
+          },
+          "id": "23368041",
+          "relationships": {
+            "campaign": {
+              "data": {
+                "id": "3072524",
+                "type": "campaign"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/campaigns/3072524"
+              }
+            }
+          },
+          "type": "user"
+        },
+        {
+          "attributes": {
+            "next_inaccessible_posts_count": 2,
+            "upgrade_url": "/join/sternenko/checkout?rid=3994431"
+          },
+          "id": "post-aggregation-for-0-3072524",
+          "type": "post_aggregation"
+        },
+        {
+          "attributes": {
+            "amount": 0,
+            "amount_cents": 0,
+            "created_at": null,
+            "description": "Everyone",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "-1",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount": 1,
+            "amount_cents": 1,
+            "created_at": null,
+            "description": "Patrons Only",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "0",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 100,
+            "currency": "USD",
+            "description": "<p><br></p>",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/3994431/5a4d49779e0f47ad8dc6aed4253f44a3/1.png?token-time=2145916800&token-hash=9fndzESZqT3ny2J179RKHcPhalExDiuXqhin02tj3TM%3D",
+            "patron_amount_cents": 100,
+            "patron_count": 295,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Дяка!",
+            "url": "/join/sternenko/checkout?rid=3994431",
+            "user_limit": null
+          },
+          "id": "3994431",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3994431_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/3914516/45108acd399f473884c09b5de146dea2/1.PNG?token-time=2145916800&token-hash=OBnupkFsZ4KcEw8Ts8f1OlRb63DqvwEPUNTNXhKpBrE%3D",
+            "patron_amount_cents": 500,
+            "patron_count": 245,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Дякую!",
+            "url": "/join/sternenko/checkout?rid=3914516",
+            "user_limit": null
+          },
+          "id": "3914516",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3914516_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1000,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/3914537/a16498e430c4401789154ac2f0b256e9/1.gif?token-time=2145916800&token-hash=Z-M1Fp3qPmyQu4xp9yK-VcZ5yoCdDxUbdNEeYJ0yOMk%3D",
+            "patron_amount_cents": 1000,
+            "patron_count": 124,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Подяка!",
+            "url": "/join/sternenko/checkout?rid=3914537",
+            "user_limit": null
+          },
+          "id": "3914537",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3914537_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2000,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/3914521/0eef4ad438944fa89aa0dea7018b5c58/2.gif?token-time=2145916800&token-hash=e4UdkY7JoKoWvUbKxgqvXLh7QxYu8fQyO7L4Vx7ZAes%3D",
+            "patron_amount_cents": 2000,
+            "patron_count": 28,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Дякую вам!",
+            "url": "/join/sternenko/checkout?rid=3914521",
+            "user_limit": null
+          },
+          "id": "3914521",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3914521_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5000,
+            "currency": "USD",
+            "description": "Також дарую футболку зі іменним лого STERNENKO😉",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/3914523/92d1d672b26d420cb4b928f39f5401d5/1.gif?token-time=2145916800&token-hash=ZvxPjy2_dozuUAhfIP2wBwwoVKiZ9aU_frgA3mLkxao%3D",
+            "patron_amount_cents": 5000,
+            "patron_count": 23,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Дякую величезне!",
+            "url": "/join/sternenko/checkout?rid=3914523",
+            "user_limit": null
+          },
+          "id": "3914523",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3914523_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "3708589",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "currency": "USD",
+            "description": "Також дарую футболку зі іменним лого STERNENKO😉",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/3914532/6f8e4b5e1dc64f03aae5331e6a294f10/1.gif?token-time=2145916800&token-hash=0L8ttPGmTyBjWJvjGOv4QGPDSEuUZs4Yhfu5JSKGKz4%3D",
+            "patron_amount_cents": 10000,
+            "patron_count": 4,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Ви дуже допомогли, дякую!",
+            "url": "/join/sternenko/checkout?rid=3914532",
+            "user_limit": null
+          },
+          "id": "3914532",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "3914532_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "3708589",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "app_name": "youtube",
+            "display_name": null,
+            "external_profile_url": "https://youtube.com/channel/UC5HBd4l_kpba5b0O1pK-Bfg",
+            "is_public": true
+          },
+          "id": "4874015",
+          "type": "social-connection"
+        },
+        {
+          "attributes": {
+            "app_name": "twitter",
+            "display_name": "sternenko",
+            "external_profile_url": "https://twitter.com/sternenko",
+            "is_public": true
+          },
+          "id": "4874016",
+          "type": "social-connection"
+        },
+        {
+          "attributes": {
+            "app_name": "instagram",
+            "display_name": "s_sternenko",
+            "external_profile_url": "https://www.instagram.com/s_sternenko",
+            "is_public": true
+          },
+          "id": "4874020",
+          "type": "social-connection"
+        },
+        {
+          "attributes": {
+            "amount_cents": 100,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3994431_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3914516_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3914537_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3914521_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": null,
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "General Support"
+          },
+          "id": "3708589",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": {
+                "id": "general_support",
+                "type": "reward-item-template"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/reward-item-template/general_support"
+              }
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3914523_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "3914532_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "fields": {
+              "access_key": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "category_type": {
+                "default": "general_support",
+                "validation_type": "optional"
+              },
+              "content": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_email": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_welcome_pack": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "fulfillment_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "is_tracked": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "item_type": {
+                "default": "custom",
+                "validation_type": "protected"
+              },
+              "rule_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "tte_interval": {
+                "default": null,
+                "validation_type": "optional"
+              }
+            }
+          },
+          "id": "general_support",
+          "type": "reward-item-template"
+        }
+      ],
+      "links": {
+        "self": "https://www.patreon.com/api/campaigns/3072524"
+      }
+    },
+    "currentUser": null,
+    "defaultUserCurrency": null,
+    "experienceLocationCountryCode": "UA",
+    "formattingLocale": "en-US",
+    "supported_currencies": [
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "USD",
+        "default_country_iso_code": "US",
+        "default_locale_code": "en",
+        "description": "US Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "US$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "EUR",
+        "default_country_iso_code": "EU",
+        "default_locale_code": "en-ie",
+        "description": "Euro",
+        "is_launched": true,
+        "max_pledge_subunits": 1300000,
+        "num_subunits": 100,
+        "symbol": "€"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "GBP",
+        "default_country_iso_code": "GB",
+        "default_locale_code": "en-gb",
+        "description": "British Pounds",
+        "is_launched": true,
+        "max_pledge_subunits": 1200000,
+        "num_subunits": 100,
+        "symbol": "£"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "CAD",
+        "default_country_iso_code": "CA",
+        "default_locale_code": "en-CA",
+        "description": "Canadian Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "CA$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "AUD",
+        "default_country_iso_code": "AU",
+        "default_locale_code": "en-AU",
+        "description": "Australian Dollars",
+        "is_launched": false,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "AU$"
+      }
+    ],
+    "translationLocale": "en-US"
+  },
+  "campaignFeatures": {},
+  "experiments": {},
+  "featureFlags": {
+    "analytics_refactor": false,
+    "announcement_banner_ticker": false,
+    "campaign_plan_features": true,
+    "cms_homepage": true,
+    "cms_local_business_vertical_page": true,
+    "cms_pricing_page": true,
+    "cms_product_lite_page": true,
+    "cms_product_page_bundle": true,
+    "cms_vertical_page_bundle": true,
+    "creator_demo": true,
+    "currency_migration_for_campaign": true,
+    "disable_patron_manager": true,
+    "enable_advanced_logging": false,
+    "experience_location": true,
+    "hide_instagram_social_connect": false,
+    "hide_starter_kit_nav_link": false,
+    "merch_mockup_generation": true,
+    "merch_new_products": true,
+    "patron_manager_deprecate_jinja": true,
+    "payout_reorg_2019_q3": true,
+    "pendo_whats_new": true,
+    "pinned_posts": true,
+    "pledgeflow_location_modal_cancel": false,
+    "pql_merch_access": true,
+    "pro_plus_merch_deny": false,
+    "rename_rewards": true,
+    "rewards_manager": true,
+    "sb_messaging_web": true,
+    "sunset_patron_manager": false,
+    "us_ca_location_capture": true,
+    "verify_user_location": true
+  },
+  "presets": {
+    "additional_banner_data": {},
+    "base_url": "/sternenko",
+    "can_campaign_be_age_gated": false,
+    "can_see_nsfw": false,
+    "currency_migration_in_progress": false,
+    "current_banners": [
+      "creator_demo"
+    ],
+    "device_id": "1b9464f6-2858-490a-a0c4-b5d78529c642",
+    "is_impersonating": false,
+    "is_preview": false,
+    "is_published": true,
+    "is_target": true,
+    "js_git_sha": "97b28eb76cb37796909bcd8b5921d81bc83676b7",
+    "locked_post_aggregates": {
+      "audio": 0,
+      "image": 1,
+      "link": 0,
+      "livestream": 0,
+      "poll": 0,
+      "total": 2,
+      "update": 1,
+      "video": 0
+    },
+    "num_posts": 7,
+    "page_title": "Patreon",
+    "public_path": "//c1.patreon.com/content-based",
+    "show_acast_button_post_pledge": false,
+    "skip_banner": true,
+    "verify_location": null,
+    "navigation": {
+      "concierge_status": {
+        "finished_at": null,
+        "started_at": null
+      },
+      "impersonation_write_access": false,
+      "is_active_creator": false,
+      "is_admin": false,
+      "is_impersonating": false,
+      "logged_in_become_creator_cta": null,
+      "referer_url": "https://www.google.com/",
+      "show_referral_program": false,
+      "show_taxes_page": false,
+      "teammate_status": {
+        "is_owner": false,
+        "is_teammate": false
+      },
+      "undelivered_deliverables_count": null,
+      "unread_messages_count": null,
+      "unread_notifications_count": null,
+      "utm_params": {}
+    }
+  },
+  "pageLoadEventName": null,
+  "pageLoadEventParams": {}
+}

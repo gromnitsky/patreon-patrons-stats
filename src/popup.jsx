@@ -19,7 +19,8 @@ function patreon_data_extension() {
 }
 
 function patreon_data_mock() {
-    return fetch('../../test/patreon_data.json').then( v => v.json())
+    let json = new URL(window.location).searchParams.get('i')
+    return fetch(`../../test/${json}`).then( v => v.json())
 }
 
 function render(patreon_data) {
