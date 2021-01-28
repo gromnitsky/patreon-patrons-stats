@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "@babel/cli": "^7.12.10",
+        "@babel/plugin-transform-react-jsx": "^7.12.12",
+        "dom-chef": "^4.2.2",
+        "eslint-plugin-react": "^7.22.0"
+    }
+}
