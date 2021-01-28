@@ -11,6 +11,7 @@
      the value of 'patreon_data' variable
 */
 
+/* global chrome */
 let patreon_data
 
 window.addEventListener("message", event => {
@@ -23,16 +24,11 @@ chrome.runtime.onMessage.addListener( (req, sender, res) => {
     if (req === 'popup') res(patreon_data)
 })
 
-inject(patreon_data_get)
+inject('content_script.pagescope.js')
 chrome.runtime.sendMessage("page_action") // ask to activate omnibox button
 
-function patreon_data_get() {
-    console.log('patreon-patrons-stats: extracting patreon data')
-    window.postMessage({ msg: "patreon_data", payload: window.patreon }, "*")
-}
-
-function inject(fn) {
+function inject(file) {
     let node = document.createElement('script')
-    node.text = `(${fn.toString()})();`
+    node.src = chrome.runtime.getURL(file)
     document.documentElement.appendChild(node)
 }

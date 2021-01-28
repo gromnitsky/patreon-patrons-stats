@@ -1,4 +1,6 @@
-chrome.extension.onMessage.addListener( (req, sender, res) => {
+/* global chrome */
+
+chrome.runtime.onMessage.addListener( (req, sender, _res) => {
     // activate omnibox button
-    if (req === 'page_action') chrome.pageAction.show(sender.tab.id)
+    if (req === 'page_action') chrome.action.enable(sender.tab.id)
 })

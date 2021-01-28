@@ -1,19 +1,23 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "patreon-patrons-stats",
     "description": "Display a public patrons statistics for a patreon page.",
     "version": "0.0.1",
     "icons": { "128": "icon.png" },
     "content_scripts": [{
-        "matches": ["https://*.patreon.com/*", "http://127.0.0.1/*"],
+        "matches": ["https://*.patreon.com/*"],
         "js": ["content_script.js"],
         "run_at": "document_end"
     }],
-    "page_action": {
-        "default_popup": "popup.html"
+    "web_accessible_resources": [{
+        "resources": ["content_script.pagescope.js"],
+        "extension_ids": []
+    }],
+    "action": {
+        "default_popup": "popup.html",
+        "default_state": "disabled"
     },
     "background": {
-        "persistent": false,
-        "scripts": ["event_page.js"]
+        "service_worker": "event_page.js"
     }
 }
