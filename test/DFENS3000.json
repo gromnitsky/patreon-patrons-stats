@@ -1,0 +1,959 @@
+{
+  "apiServer": "www.patreon.com/api",
+  "webServer": "www.patreon.com",
+  "userId": "0",
+  "csrfSignature": "ouqWxB7Mi9xXC-YJC7by7kZdmCHGmeRrZ_7TsOx0MvA",
+  "requestUUID": "8fcc7101-e918-4ac4-a9ab-140619dc9a11",
+  "fbPixelId": "267568703576098",
+  "theme": "america",
+  "bootstrap": {
+    "campaign": {
+      "data": {
+        "attributes": {
+          "avatar_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/5340694/cb0ce479398b4241961e14aeb0aa19d4/1.jpg?token-time=2145916800&token-hash=rvDOkbOERe2h_A_m76GdT2jtWYKVyH3dx8ofiXecU8A%3D",
+          "campaign_pledge_sum": 1941,
+          "cover_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/5340694/0928e77d55ba4c868967ceba4fe829c4/2.jpg?token-time=1612396800&token-hash=13NITt7_kUevfdqoohZzSlNxnWFVpVzaGGqntLOMono%3D",
+          "cover_photo_url_sizes": {
+            "large": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/5340694/0928e77d55ba4c868967ceba4fe829c4/2.jpg?token-time=1612396800&token-hash=13NITt7_kUevfdqoohZzSlNxnWFVpVzaGGqntLOMono%3D",
+            "medium": "https://c10.patreonusercontent.com/3/eyJ3Ijo5NjB9/patreon-media/p/campaign/5340694/0928e77d55ba4c868967ceba4fe829c4/2.jpg?token-time=1612396800&token-hash=DHL-lBeuvg7LddSrYRWt1Z-NssbQQWFuSSVm83vfqyQ%3D",
+            "small": "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/campaign/5340694/0928e77d55ba4c868967ceba4fe829c4/2.jpg?token-time=1612396800&token-hash=_xMAIeDJ_x1Oz_2TaItOAO1IADtYOv--smp_NZrL-1g%3D"
+          },
+          "creation_name": "Memes",
+          "currency": "USD",
+          "display_patron_goals": false,
+          "has_rss": false,
+          "is_monthly": true,
+          "is_nsfw": false,
+          "main_video_embed": null,
+          "main_video_url": null,
+          "name": "DFENS3000 ",
+          "one_liner": null,
+          "patron_count": 4,
+          "pay_per_name": "month",
+          "pledge_sum": 1941,
+          "pledge_sum_currency": "USD",
+          "pledge_url": "/join/DFENS3000",
+          "primary_theme_color": "#139200",
+          "published_at": "2020-09-16T19:37:24.000+00:00",
+          "show_earnings": true,
+          "show_patron_count": true,
+          "summary": "Дайте дві гривні ₴₴<br>Дайте дві гривні ₴₴<br>Дайте дві гривні ₴₴<br><div>Дайте дві гривні ₴₴<br>Дайте дві гривні ₴₴<br>Дайте дві гривні ₴₴<br></div>",
+          "vanity": "DFENS3000"
+        },
+        "id": "5340694",
+        "relationships": {
+          "active_offer": {
+            "data": null
+          },
+          "connected_socials": {
+            "data": [
+              {
+                "id": "8652753",
+                "type": "social-connection"
+              }
+            ]
+          },
+          "creator": {
+            "data": {
+              "id": "42450356",
+              "type": "user"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/user/42450356"
+            }
+          },
+          "goals": {
+            "data": []
+          },
+          "patron_goals": {
+            "data": []
+          },
+          "post_aggregation": {
+            "data": {
+              "id": "post-aggregation-for-0-5340694",
+              "type": "post_aggregation"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/post-aggregations/post-aggregation-for-0-5340694"
+            }
+          },
+          "rewards": {
+            "data": [
+              {
+                "id": "-1",
+                "type": "reward"
+              },
+              {
+                "id": "0",
+                "type": "reward"
+              },
+              {
+                "id": "5951292",
+                "type": "reward"
+              },
+              {
+                "id": "5951293",
+                "type": "reward"
+              },
+              {
+                "id": "5951294",
+                "type": "reward"
+              },
+              {
+                "id": "5951551",
+                "type": "reward"
+              },
+              {
+                "id": "6036428",
+                "type": "reward"
+              },
+              {
+                "id": "5960459",
+                "type": "reward"
+              }
+            ]
+          }
+        },
+        "type": "campaign"
+      },
+      "included": [
+        {
+          "attributes": {
+            "full_name": "DFENS3000",
+            "vanity": "DFENS3000"
+          },
+          "id": "42450356",
+          "relationships": {
+            "campaign": {
+              "data": {
+                "id": "5340694",
+                "type": "campaign"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/campaigns/5340694"
+              }
+            }
+          },
+          "type": "user"
+        },
+        {
+          "attributes": {
+            "next_inaccessible_posts_count": 1,
+            "upgrade_url": "/join/DFENS3000/checkout?rid=5951292"
+          },
+          "id": "post-aggregation-for-0-5340694",
+          "type": "post_aggregation"
+        },
+        {
+          "attributes": {
+            "amount": 0,
+            "amount_cents": 0,
+            "created_at": null,
+            "description": "Everyone",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "-1",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount": 1,
+            "amount_cents": 1,
+            "created_at": null,
+            "description": "Patrons Only",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "0",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 100,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/5951292/903b253f48314199bec21442c71639f4/1.jpg?token-time=2145916800&token-hash=zWQqfWfKSPdUWjE3kszpuX7qAsXjeqPe3Euz7HA4xHE%3D",
+            "patron_amount_cents": 100,
+            "patron_count": 2,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Однодолларовый миллионер",
+            "url": "/join/DFENS3000/checkout?rid=5951292",
+            "user_limit": null
+          },
+          "id": "5951292",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "5951292_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "4195163",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/5951293/9f94d27071094f25850d8c6645238d0b/1.jpg?token-time=2145916800&token-hash=3ntgJeyGJlSFfYsKxzO1gXrAhSnYBmRpNj778t8qy2Q%3D",
+            "patron_amount_cents": 500,
+            "patron_count": 1,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "5 бачей за борсетку",
+            "url": "/join/DFENS3000/checkout?rid=5951293",
+            "user_limit": null
+          },
+          "id": "5951293",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "5951293_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "4195831",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1500,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/5951294/70e8ffc577db4a80a7049e5a7379afa6/1.jpg?token-time=2145916800&token-hash=qMyE6kBNTPgYwTn0rgSuJjRZh60CCLWRFTcgW9hNNCM%3D",
+            "patron_amount_cents": 1500,
+            "patron_count": 1,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "VIP-Patron",
+            "url": "/join/DFENS3000/checkout?rid=5951294",
+            "user_limit": null
+          },
+          "id": "5951294",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "5951294_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "4195867",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4203660",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2500,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/5951551/851fb661277249519cb7fd7e52e1d6aa/1.jpg?token-time=2145916800&token-hash=VddKF7AEo3JrSdtt4Wu20NhkcSES8hxs54hIXyNDfX8%3D",
+            "patron_amount_cents": 2500,
+            "patron_count": 0,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Депутат",
+            "url": "/join/DFENS3000/checkout?rid=5951551",
+            "user_limit": null
+          },
+          "id": "5951551",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "5951551_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "4195875",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195966",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 3000,
+            "currency": "USD",
+            "description": "Белая футболка гонять по солнцу в эзраеле - та ти шо ахуенно",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/6036428/aba44d5ca7194fd58b7a85fe274b0fef/1.png?token-time=2145916800&token-hash=5aeRAA4GGKFe-hXC5c3l1018npHkp34K05YBo74uMMU%3D",
+            "patron_amount_cents": 3000,
+            "patron_count": 0,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Тшорт",
+            "url": "/join/DFENS3000/checkout?rid=6036428",
+            "user_limit": null
+          },
+          "id": "6036428",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "6036428_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "4195831",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195867",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195875",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195163",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4395359",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "currency": "USD",
+            "description": "",
+            "discord_role_ids": null,
+            "image_url": "https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/5960459/f18cf6b6c8a748229965afd165e4f253/1.jpg?token-time=2145916800&token-hash=spI_7w5zIr-_zX9A53YVSJJEvgMfuG06OxP4lccCZC4%3D",
+            "patron_amount_cents": 10000,
+            "patron_count": 0,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Дивиця хуї",
+            "url": "/join/DFENS3000/checkout?rid=5960459",
+            "user_limit": null
+          },
+          "id": "5960459",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "5960459_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": [
+                {
+                  "id": "4195831",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195867",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195875",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4195163",
+                  "type": "reward-item"
+                },
+                {
+                  "id": "4395420",
+                  "type": "reward-item"
+                }
+              ]
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "app_name": "twitter",
+            "display_name": "DFENS3000",
+            "external_profile_url": "https://twitter.com/DFENS3000",
+            "is_public": true
+          },
+          "id": "8652753",
+          "type": "social-connection"
+        },
+        {
+          "attributes": {
+            "description": null,
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Дай дві гривні"
+          },
+          "id": "4195163",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": {
+                "id": "post_archives",
+                "type": "reward-item-template"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/reward-item-template/post_archives"
+              }
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 100,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "5951292_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": null,
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Пиздилиньк"
+          },
+          "id": "4195831",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "5951293_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": null,
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Пиздилиньк віп"
+          },
+          "id": "4195867",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": {
+                "id": "general_support",
+                "type": "reward-item-template"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/reward-item-template/general_support"
+              }
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "description": "Чашечка для кофя 2",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "merch",
+            "title": "Exclusive Mug"
+          },
+          "id": "4203660",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "5951294_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": null,
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "custom",
+            "title": "Купи кружку"
+          },
+          "id": "4195875",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": {
+                "id": "general_support",
+                "type": "reward-item-template"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/reward-item-template/general_support"
+              }
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "description": "Кружечка для кофя",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "merch",
+            "title": "Exclusive Mug"
+          },
+          "id": "4195966",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "5951551_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": "Белая футболка гонять по солнцу в эзраеле - та ти шо ахуенно",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "merch",
+            "title": "Exclusive T-shirt"
+          },
+          "id": "4395359",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 3000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "6036428_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "description": "Кружечка раритет ",
+            "is_deleted": false,
+            "is_ended": false,
+            "is_published": true,
+            "item_type": "merch",
+            "title": "Exclusive Mug"
+          },
+          "id": "4395420",
+          "relationships": {
+            "reward_item_configuration": {
+              "data": null
+            },
+            "template": {
+              "data": null
+            }
+          },
+          "type": "reward-item"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "5960459_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "fields": {
+              "access_key": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "category_type": {
+                "default": "exclusive_posts_updates",
+                "validation_type": "optional"
+              },
+              "content": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_email": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_welcome_pack": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "fulfillment_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "is_tracked": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "item_type": {
+                "default": "custom",
+                "validation_type": "protected"
+              },
+              "rule_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "tte_interval": {
+                "default": null,
+                "validation_type": "optional"
+              }
+            }
+          },
+          "id": "post_archives",
+          "type": "reward-item-template"
+        },
+        {
+          "attributes": {
+            "fields": {
+              "access_key": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "category_type": {
+                "default": "general_support",
+                "validation_type": "optional"
+              },
+              "content": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_email": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "deliver_via_welcome_pack": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "fulfillment_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "is_tracked": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "item_type": {
+                "default": "custom",
+                "validation_type": "protected"
+              },
+              "rule_type": {
+                "default": null,
+                "validation_type": "optional"
+              },
+              "tte_interval": {
+                "default": null,
+                "validation_type": "optional"
+              }
+            }
+          },
+          "id": "general_support",
+          "type": "reward-item-template"
+        }
+      ],
+      "links": {
+        "self": "https://www.patreon.com/api/campaigns/5340694"
+      }
+    },
+    "currentUser": null,
+    "defaultUserCurrency": null,
+    "experienceLocationCountryCode": "UA",
+    "formattingLocale": "en-US",
+    "supported_currencies": [
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "USD",
+        "default_country_iso_code": "US",
+        "default_locale_code": "en",
+        "description": "US Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "US$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "EUR",
+        "default_country_iso_code": "EU",
+        "default_locale_code": "en-ie",
+        "description": "Euro",
+        "is_launched": true,
+        "max_pledge_subunits": 1300000,
+        "num_subunits": 100,
+        "symbol": "€"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "GBP",
+        "default_country_iso_code": "GB",
+        "default_locale_code": "en-gb",
+        "description": "British Pounds",
+        "is_launched": true,
+        "max_pledge_subunits": 1200000,
+        "num_subunits": 100,
+        "symbol": "£"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "CAD",
+        "default_country_iso_code": "CA",
+        "default_locale_code": "en-CA",
+        "description": "Canadian Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "CA$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "AUD",
+        "default_country_iso_code": "AU",
+        "default_locale_code": "en-AU",
+        "description": "Australian Dollars",
+        "is_launched": false,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "AU$"
+      }
+    ],
+    "translationLocale": "en-US"
+  },
+  "campaignFeatures": {},
+  "experiments": {},
+  "featureFlags": {
+    "analytics_refactor": false,
+    "announcement_banner_ticker": false,
+    "campaign_plan_features": true,
+    "cms_homepage": true,
+    "cms_local_business_vertical_page": true,
+    "cms_pricing_page": true,
+    "cms_product_lite_page": true,
+    "cms_product_page_bundle": true,
+    "cms_vertical_page_bundle": true,
+    "creator_demo": true,
+    "currency_migration_for_campaign": true,
+    "disable_patron_manager": true,
+    "enable_advanced_logging": false,
+    "experience_location": true,
+    "hide_instagram_social_connect": false,
+    "hide_starter_kit_nav_link": false,
+    "merch_mockup_generation": true,
+    "merch_new_products": true,
+    "patron_manager_deprecate_jinja": true,
+    "payout_reorg_2019_q3": true,
+    "pendo_whats_new": true,
+    "pinned_posts": true,
+    "pledgeflow_location_modal_cancel": false,
+    "pql_merch_access": true,
+    "pro_plus_merch_deny": false,
+    "rename_rewards": true,
+    "rewards_manager": true,
+    "sb_messaging_web": true,
+    "sunset_patron_manager": false,
+    "us_ca_location_capture": true,
+    "verify_user_location": true
+  },
+  "presets": {
+    "additional_banner_data": {},
+    "base_url": "/DFENS3000",
+    "can_campaign_be_age_gated": false,
+    "can_see_nsfw": false,
+    "currency_migration_in_progress": false,
+    "current_banners": [
+      "creator_demo"
+    ],
+    "device_id": "1b9464f6-2858-490a-a0c4-b5d78529c642",
+    "is_impersonating": false,
+    "is_preview": false,
+    "is_published": true,
+    "is_target": true,
+    "js_git_sha": "97b28eb76cb37796909bcd8b5921d81bc83676b7",
+    "locked_post_aggregates": {
+      "audio": 0,
+      "image": 0,
+      "link": 0,
+      "livestream": 0,
+      "poll": 0,
+      "total": 1,
+      "update": 0,
+      "video": 1
+    },
+    "num_posts": 1,
+    "page_title": "Patreon",
+    "public_path": "//c1.patreon.com/content-based",
+    "show_acast_button_post_pledge": false,
+    "skip_banner": true,
+    "verify_location": null,
+    "navigation": {
+      "concierge_status": {
+        "finished_at": null,
+        "started_at": null
+      },
+      "impersonation_write_access": false,
+      "is_active_creator": false,
+      "is_admin": false,
+      "is_impersonating": false,
+      "logged_in_become_creator_cta": null,
+      "referer_url": "https://t.co/",
+      "show_referral_program": false,
+      "show_taxes_page": false,
+      "teammate_status": {
+        "is_owner": false,
+        "is_teammate": false
+      },
+      "undelivered_deliverables_count": null,
+      "unread_messages_count": null,
+      "unread_notifications_count": null,
+      "utm_params": {}
+    }
+  },
+  "pageLoadEventName": null,
+  "pageLoadEventParams": {}
+}
