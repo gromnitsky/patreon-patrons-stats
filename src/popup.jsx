@@ -48,7 +48,8 @@ function render(patreon_data) {
 
     // helpers
     let currency_name = tiers[0].attributes.currency
-    let per = v => to_f((v / total_gross) * 100, 2)
+    let per_pat = v => to_f((v / total_patrons) * 100, 2)
+    let per_gross = v => to_f((v / total_gross) * 100, 2)
     let cf = cents => Math.floor(cents / 100)
 
     let table_rows = tiers.map ( (tier, idx) => {
@@ -59,8 +60,9 @@ function render(patreon_data) {
                  <td dangerouslySetInnerHTML={{__html: tier.attributes.description}} />
                  <td>{cf(gross)}</td>
                  <td>{patron_count}</td>
+                 <td>{per_pat(patron_count)}</td>
                  <td>{cf(patron_count * gross)}</td>
-                 <td>{per(patron_count * gross)}</td>
+                 <td>{per_gross(patron_count * gross)}</td>
                </tr>
     })
 
@@ -71,6 +73,7 @@ function render(patreon_data) {
             <th>Description</th>
             <th>{currency_name}</th>
             <th>Patrons</th>
+            <th title="of patrons total">%</th>
             <th>Gross<br/>Income</th>
             <th title="of total gross income">%</th>
           </tr>
@@ -82,22 +85,25 @@ function render(patreon_data) {
             <td></td>
             <th>Total:</th>
             <td>{patrons}</td>
+            <td>{per_pat(patrons)}</td>
             <td>{cf(patrons_gross)}</td>
-            <td></td>
+            <td>{per_gross(patrons_gross)}</td>
           </tr>
           <tr>
             <td><i>In limbo</i></td>
             <td></td>
             <td></td>
             <td>{in_limbo}</td>
+            <td>{per_pat(in_limbo)}</td>
             <td>{cf(in_limbo_gross)}</td>
-            <td>{per(in_limbo_gross)}</td>
+            <td>{per_gross(in_limbo_gross)}</td>
           </tr>
           <tr style={{borderTop: '1px solid darkgray'}}>
             <td></td>
             <td></td>
             <th>Total:</th>
             <td>{total_patrons}</td>
+            <td></td>
             <td>{cf(total_gross)}</td>
             <td></td>
           </tr>
