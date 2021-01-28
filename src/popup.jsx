@@ -55,7 +55,7 @@ function render(patreon_data) {
         let patron_count = tier.attributes.patron_count
         return <tr key={idx}>
                  <td>{tier.attributes.title}</td>
-                 <td>{tier.attributes.description}</td>
+                 <td dangerouslySetInnerHTML={{__html: tier.attributes.description}} />
                  <td>{cf(gross)}</td>
                  <td>{patron_count}</td>
                  <td>{cf(patron_count * gross)}</td>
@@ -76,12 +76,13 @@ function render(patreon_data) {
 
           {table_rows}
 
-          <tr>
+          <tr style={{borderTop: '1px solid darkgray'}}>
             <td></td>
             <td></td>
             <th>Total:</th>
             <td>{patrons}</td>
             <td>{cf(patrons_gross)}</td>
+            <td></td>
           </tr>
           <tr>
             <td><i>In limbo</i></td>
@@ -97,6 +98,7 @@ function render(patreon_data) {
             <th>Total:</th>
             <td>{total_patrons}</td>
             <td>{cf(total_gross)}</td>
+            <td></td>
           </tr>
         </table>
     )
