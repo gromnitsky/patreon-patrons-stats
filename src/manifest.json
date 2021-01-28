@@ -3,6 +3,7 @@
     "name": "patreon-patrons-stats",
     "description": "Display a public patrons statistics for a patreon page.",
     "version": "0.0.1",
+    "icons": { "128": "icon.png" },
     "content_scripts": [{
         "matches": ["https://*.patreon.com/*", "http://127.0.0.1/*"],
         "js": ["content_script.js"],
