@@ -1,12 +1,19 @@
 <!doctype html>
 <meta charset="utf-8">
 <style>
-    body {
-      min-width: 20em;
-      font-family: sans-serif;
-    }
+  body {
+    min-width: 20em;
+    font-family: sans-serif;
+  }
+  table { border-collapse: collapse; }
+  td {
+    padding-left: calc(1em / 2);
+    padding-right: calc(1em / 2);
+  }
+  tr:nth-child(even) { background-color: #fafafa; }
+  th { vertical-align: top; }
 </style>
 
 <script src="popup.js"></script>
 
-<p>HELLO</p>
+<div id="result">No data</div>

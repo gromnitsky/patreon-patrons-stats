@@ -1,0 +1,634 @@
+{
+  "apiServer": "www.patreon.com/api",
+  "webServer": "www.patreon.com",
+  "userId": "0",
+  "csrfSignature": "FujP5UlpXVoW94rSLFTzXHNZ9o1KykQwYH_m-FuYUSw",
+  "requestUUID": "961a2ccd-23d9-47f7-917a-f47f8325b9e9",
+  "fbPixelId": "267568703576098",
+  "theme": "america",
+  "bootstrap": {
+    "campaign": {
+      "data": {
+        "attributes": {
+          "avatar_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/campaign/203482/5f75e94a43744c66a5abd529a10286dd/1.jpeg?token-time=2145916800&token-hash=btLdwHuu1uS8twapjKbbUy-8vizImuE5L0vemGaFZtM%3D",
+          "campaign_pledge_sum": 411953,
+          "cover_photo_url": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/203482/1ddc3598c4da442e99f67b06af705172/1.jpeg?token-time=1612396800&token-hash=6QaBJ_cO8LO-4uRs30keUc_SRz8pceOBGN_HMVScoTM%3D",
+          "cover_photo_url_sizes": {
+            "large": "https://c10.patreonusercontent.com/3/eyJ3IjoxOTIwfQ%3D%3D/patreon-media/p/campaign/203482/1ddc3598c4da442e99f67b06af705172/1.jpeg?token-time=1612396800&token-hash=6QaBJ_cO8LO-4uRs30keUc_SRz8pceOBGN_HMVScoTM%3D",
+            "medium": "https://c10.patreonusercontent.com/3/eyJ3Ijo5NjB9/patreon-media/p/campaign/203482/1ddc3598c4da442e99f67b06af705172/1.jpeg?token-time=1612396800&token-hash=7NmSj5eJY--ZLjs8CrEZ9_35iZENu8GCirN7Fmi1ano%3D",
+            "small": "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/campaign/203482/1ddc3598c4da442e99f67b06af705172/1.jpeg?token-time=1612396800&token-hash=KnLXzl1UDXJKN8Tz8xiPnPcJMAZrrQSRbi6HuUTsytE%3D"
+          },
+          "creation_name": "Road Work",
+          "currency": "USD",
+          "display_patron_goals": false,
+          "has_rss": true,
+          "is_monthly": true,
+          "is_nsfw": false,
+          "main_video_embed": null,
+          "main_video_url": null,
+          "name": "Road Work",
+          "one_liner": "We love you the most.",
+          "patron_count": 942,
+          "pay_per_name": "month",
+          "pledge_sum": 411953,
+          "pledge_sum_currency": "USD",
+          "pledge_url": "/join/roadwork",
+          "primary_theme_color": "#488b00",
+          "published_at": "2016-04-08T21:19:09.000+00:00",
+          "show_earnings": true,
+          "show_patron_count": true,
+          "summary": "This is the best and only way to support Road Work, where America's top two podcast personalities are finally coming together in one podcasting event that will change the way you think about podcasting forever! Like a rock skipping over the placid waters of an alpine lake, Dan and John are all too well aware that this burst of kinetic energy will ultimately deposit them, like all human effort, at rest in the icy depths where no light can penetrate. Until then, they mean to thrill to the chase! To soak up the remaining light and banish thoughts of tomorrow! EXCELSIOR!<br><br>Each week, we will be releasing bonus content based on your questions, feedback, and ideas, and sometimes John will play a song.<br><br><a href=\"https://patreon.zendesk.com/hc/en-us/articles/212055866-How-Do-I-Get-and-Use-My-Audio-RSS-Link-\" target=\"_blank\">Follow these instructions to subscribe to this content in your favorite podcast app.</a><br><br>",
+          "vanity": "roadwork"
+        },
+        "id": "203482",
+        "relationships": {
+          "active_offer": {
+            "data": null
+          },
+          "connected_socials": {
+            "data": null
+          },
+          "creator": {
+            "data": {
+              "id": "1005751",
+              "type": "user"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/user/1005751"
+            }
+          },
+          "goals": {
+            "data": [
+              {
+                "id": "1285170",
+                "type": "goal"
+              },
+              {
+                "id": "1285171",
+                "type": "goal"
+              }
+            ]
+          },
+          "patron_goals": {
+            "data": []
+          },
+          "post_aggregation": {
+            "data": {
+              "id": "post-aggregation-for-0-203482",
+              "type": "post_aggregation"
+            },
+            "links": {
+              "related": "https://www.patreon.com/api/post-aggregations/post-aggregation-for-0-203482"
+            }
+          },
+          "rewards": {
+            "data": [
+              {
+                "id": "-1",
+                "type": "reward"
+              },
+              {
+                "id": "0",
+                "type": "reward"
+              },
+              {
+                "id": "2881330",
+                "type": "reward"
+              },
+              {
+                "id": "2881332",
+                "type": "reward"
+              },
+              {
+                "id": "2881339",
+                "type": "reward"
+              },
+              {
+                "id": "2881340",
+                "type": "reward"
+              },
+              {
+                "id": "2881346",
+                "type": "reward"
+              },
+              {
+                "id": "2881348",
+                "type": "reward"
+              }
+            ]
+          }
+        },
+        "type": "campaign"
+      },
+      "included": [
+        {
+          "attributes": {
+            "full_name": "Road Work",
+            "vanity": "roadwork"
+          },
+          "id": "1005751",
+          "relationships": {
+            "campaign": {
+              "data": {
+                "id": "203482",
+                "type": "campaign"
+              },
+              "links": {
+                "related": "https://www.patreon.com/api/campaigns/203482"
+              }
+            }
+          },
+          "type": "user"
+        },
+        {
+          "attributes": {
+            "next_inaccessible_posts_count": 368,
+            "upgrade_url": "/join/roadwork/checkout?rid=2881330"
+          },
+          "id": "post-aggregation-for-0-203482",
+          "type": "post_aggregation"
+        },
+        {
+          "attributes": {
+            "amount": 0,
+            "amount_cents": 0,
+            "created_at": null,
+            "description": "Everyone",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "-1",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount": 1,
+            "amount_cents": 1,
+            "created_at": null,
+            "description": "Patrons Only",
+            "patron_currency": "USD",
+            "remaining": 0,
+            "requires_shipping": false,
+            "url": null,
+            "user_limit": null
+          },
+          "id": "0",
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "currency": "USD",
+            "description": "You're unafraid to take charge.",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 500,
+            "patron_count": 484,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Squadron Leader",
+            "url": "/join/roadwork/checkout?rid=2881330",
+            "user_limit": null
+          },
+          "id": "2881330",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "2881330_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1000,
+            "currency": "USD",
+            "description": "You're a natural born leader. Address fear square in the face.",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 1000,
+            "patron_count": 90,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Wing Commander",
+            "url": "/join/roadwork/checkout?rid=2881332",
+            "user_limit": null
+          },
+          "id": "2881332",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "2881332_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2500,
+            "currency": "USD",
+            "description": "When times get tough, they turn to you.",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 2500,
+            "patron_count": 15,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Group Captain",
+            "url": "/join/roadwork/checkout?rid=2881339",
+            "user_limit": null
+          },
+          "id": "2881339",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "2881339_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5000,
+            "currency": "USD",
+            "description": "Actually, you CAN handle the truth.",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 5000,
+            "patron_count": 4,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Air Commodore",
+            "url": "/join/roadwork/checkout?rid=2881340",
+            "user_limit": null
+          },
+          "id": "2881340",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "2881340_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 7500,
+            "currency": "USD",
+            "description": "Grit. Determination. Guile. That's you before 6 AM.",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 7500,
+            "patron_count": 0,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Air Marshal",
+            "url": "/join/roadwork/checkout?rid=2881346",
+            "user_limit": null
+          },
+          "id": "2881346",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "2881346_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "currency": "USD",
+            "description": "I just looked up \"badass\" in the dictionary and it was just a picture of you.",
+            "discord_role_ids": null,
+            "image_url": null,
+            "patron_amount_cents": 10000,
+            "patron_count": 0,
+            "patron_currency": "USD",
+            "published": true,
+            "remaining": null,
+            "sales_tax_label": "VAT",
+            "show_sales_tax_in_creator_page": false,
+            "title": "Air Chief Marshal",
+            "url": "/join/roadwork/checkout?rid=2881348",
+            "user_limit": null
+          },
+          "id": "2881348",
+          "relationships": {
+            "cadence_options": {
+              "data": [
+                {
+                  "id": "2881348_1_USD",
+                  "type": "reward-cadence-option"
+                }
+              ]
+            },
+            "items": {
+              "data": []
+            }
+          },
+          "type": "reward"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500000,
+            "completed_percentage": 82,
+            "currency": "USD",
+            "description": "If we reach our goal of $5,000 per month, both John and Dan will be able to afford to pay our bills and save for our kids' college educations."
+          },
+          "id": "1285170",
+          "type": "goal"
+        },
+        {
+          "attributes": {
+            "amount_cents": 100000,
+            "completed_percentage": 100,
+            "currency": "USD",
+            "description": "If we reach our goal of $1,000 per month, John will no longer think that doing a Patreon is an awful idea, and will begin to become open minded to doing special bonus content for listeners."
+          },
+          "id": "1285171",
+          "type": "goal"
+        },
+        {
+          "attributes": {
+            "amount_cents": 500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "2881330_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 1000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "2881332_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 2500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "2881339_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 5000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "2881340_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 7500,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "2881346_1_USD",
+          "type": "reward-cadence-option"
+        },
+        {
+          "attributes": {
+            "amount_cents": 10000,
+            "cadence": 1,
+            "campaign_pledge_cadence_discount_id": null,
+            "currency": "USD"
+          },
+          "id": "2881348_1_USD",
+          "type": "reward-cadence-option"
+        }
+      ],
+      "links": {
+        "self": "https://www.patreon.com/api/campaigns/203482"
+      }
+    },
+    "currentUser": null,
+    "defaultUserCurrency": null,
+    "experienceLocationCountryCode": "UA",
+    "formattingLocale": "en-US",
+    "supported_currencies": [
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "USD",
+        "default_country_iso_code": "US",
+        "default_locale_code": "en",
+        "description": "US Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "US$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "EUR",
+        "default_country_iso_code": "EU",
+        "default_locale_code": "en-ie",
+        "description": "Euro",
+        "is_launched": true,
+        "max_pledge_subunits": 1300000,
+        "num_subunits": 100,
+        "symbol": "€"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "GBP",
+        "default_country_iso_code": "GB",
+        "default_locale_code": "en-gb",
+        "description": "British Pounds",
+        "is_launched": true,
+        "max_pledge_subunits": 1200000,
+        "num_subunits": 100,
+        "symbol": "£"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "CAD",
+        "default_country_iso_code": "CA",
+        "default_locale_code": "en-CA",
+        "description": "Canadian Dollars",
+        "is_launched": true,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "CA$"
+      },
+      {
+        "available_for_pay_in": true,
+        "available_for_pay_out": true,
+        "code": "AUD",
+        "default_country_iso_code": "AU",
+        "default_locale_code": "en-AU",
+        "description": "Australian Dollars",
+        "is_launched": false,
+        "max_pledge_subunits": 1500000,
+        "num_subunits": 100,
+        "symbol": "AU$"
+      }
+    ],
+    "translationLocale": "en-US"
+  },
+  "campaignFeatures": {},
+  "experiments": {},
+  "featureFlags": {
+    "analytics_refactor": false,
+    "announcement_banner_ticker": false,
+    "campaign_plan_features": true,
+    "cms_homepage": true,
+    "cms_local_business_vertical_page": true,
+    "cms_pricing_page": true,
+    "cms_product_lite_page": true,
+    "cms_product_page_bundle": true,
+    "cms_vertical_page_bundle": true,
+    "creator_demo": true,
+    "currency_migration_for_campaign": true,
+    "disable_patron_manager": true,
+    "enable_advanced_logging": false,
+    "experience_location": true,
+    "hide_instagram_social_connect": false,
+    "hide_starter_kit_nav_link": false,
+    "merch_mockup_generation": true,
+    "merch_new_products": true,
+    "patron_manager_deprecate_jinja": true,
+    "payout_reorg_2019_q3": true,
+    "pendo_whats_new": true,
+    "pinned_posts": true,
+    "pledgeflow_location_modal_cancel": false,
+    "pql_merch_access": true,
+    "pro_plus_merch_deny": false,
+    "rename_rewards": true,
+    "rewards_manager": true,
+    "sb_messaging_web": true,
+    "sunset_patron_manager": false,
+    "us_ca_location_capture": true,
+    "verify_user_location": true
+  },
+  "presets": {
+    "additional_banner_data": {
+      "ccpa_cookie_disclosure": {
+        "cookie_name": "did_accept_ccpa"
+      }
+    },
+    "base_url": "/user",
+    "can_campaign_be_age_gated": false,
+    "can_see_nsfw": false,
+    "currency_migration_in_progress": false,
+    "current_banners": [
+      "creator_demo",
+      "ccpa_cookie_disclosure"
+    ],
+    "device_id": "7d2178a0-afd6-4cf4-bdb7-1e03db82fe76",
+    "is_impersonating": false,
+    "is_preview": false,
+    "is_published": true,
+    "is_target": true,
+    "js_git_sha": "919de6049b849ad413e003675adda0bc09cdd08e",
+    "locked_post_aggregates": {
+      "audio": 118,
+      "image": 2,
+      "link": 0,
+      "livestream": 0,
+      "poll": 0,
+      "total": 123,
+      "update": 4,
+      "video": 0
+    },
+    "num_posts": 124,
+    "page_title": "Patreon",
+    "public_path": "//c1.patreon.com/content-based",
+    "show_acast_button_post_pledge": null,
+    "skip_banner": true,
+    "verify_location": null,
+    "navigation": {
+      "concierge_status": {
+        "finished_at": null,
+        "started_at": null
+      },
+      "impersonation_write_access": false,
+      "is_active_creator": false,
+      "is_admin": false,
+      "is_impersonating": false,
+      "logged_in_become_creator_cta": null,
+      "referer_url": null,
+      "show_referral_program": false,
+      "show_taxes_page": false,
+      "teammate_status": {
+        "is_owner": false,
+        "is_teammate": false
+      },
+      "undelivered_deliverables_count": null,
+      "unread_messages_count": null,
+      "unread_notifications_count": null,
+      "utm_params": {}
+    }
+  },
+  "pageLoadEventName": null,
+  "pageLoadEventParams": {}
+}
