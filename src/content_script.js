@@ -1,14 +1,16 @@
 /*
   How it works:
 
-  1. we create a <script> tag & fill it with patreon_data_get() function
-  2. add the <script> tag to document
-  3. the function inside the <script> tag sends a message
-     to THIS content script with the value of 'window.patreon' global variable
-     that it gets from patreon.com page--it can access it for it runs in
-     the patreon.com scope
-  4. we listen for a message form a popup; we respond with
-     the value of 'patreon_data' variable
+  1. we create a <script src="content_script.pagescope.js"> tag & add
+     it to document
+
+  2. the added script sends a message to THIS content script with the
+     value of 'window.patreon' global variable that it gets from
+     patreon.com page--it can access it for it runs in the patreon.com
+     scope
+
+  3. we listen for a message form a popup & respond with the value of
+     'patreon_data' variable
 */
 
 /* global chrome */
