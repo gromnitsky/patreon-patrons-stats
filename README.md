@@ -2,7 +2,7 @@
 
 (Download the .crx file [here](http://gromnitsky.users.sourceforge.net/js/chrome/).)
 
-Display a public patrons statistics for a patreon page.
+Display public patrons statistics for a patreon page.
 
 <img src='screenshot.png' alt=''>
 
