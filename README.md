@@ -11,7 +11,7 @@ of patrons pledging & total earnings.
 
 Doesn't use `patreon.com` api.
 
-Requires Chrome 88+ (it's manifest v3 extension).
+Requires Chrome 90+ (it's manifest v3 extension).
 
 ## Compilation
 

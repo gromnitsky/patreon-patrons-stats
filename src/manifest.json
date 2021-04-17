@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "patreon-patrons-stats",
     "description": "Display public patrons statistics for a patreon page.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icons": { "128": "icon.png" },
     "content_scripts": [{
         "matches": ["https://*.patreon.com/*"],
@@ -11,7 +11,7 @@
     }],
     "web_accessible_resources": [{
         "resources": ["content_script.pagescope.js"],
-        "extension_ids": []
+        "matches": ["https://*.patreon.com/*"]
     }],
     "action": {
         "default_popup": "popup.html",
